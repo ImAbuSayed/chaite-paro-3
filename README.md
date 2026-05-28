@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chaite-paro-3/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Chaite Paro 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chaite-paro-3/) |
+| **Get License** | [Music Rights & Licensing for Chaite Paro 3](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chaite-paro-3/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কালো মেঘের আড়ালে যখন চাঁদের আলো লুকায়
+> আমার এই ব্যথাতুর মন শুধু তোমাকেই যে চায়
+> রাত্রির নিস্তব্ধতায় খুঁজি তোমার অচিন সুর
+> আঁধারে ডুবে থাকা পথগুলো মনে হয় বহুদূর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
