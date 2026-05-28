@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chaite Paro 3
+
+This log tracks the cryptographic history and versioning for the song **Chaite Paro 3** (chaite-paro-3).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T20:36:12.431003 | `v1` | `0a379c12b694eb7fe21f03511e8868d60235179cea15775cd4a5f58f1c738e71` | `d8ee5eca2dcf2927e847c18da8c83e5e1923e0dfd3a1dee4431e18b5bb919524` | `2026-05-28_chaite-paro-3-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
